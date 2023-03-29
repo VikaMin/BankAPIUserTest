@@ -24,7 +24,7 @@ class AuthTest {
 
     @Test
     @DisplayName("Should successfully login with active registered user")
-    void shouldSuccessfulLoginIfRegisteredActiveUser() {
+     void shouldSuccessfulLoginIfRegisteredActiveUser() {
         var registeredUser = getRegisteredUser("active");
 
         $("[data-test-id=login] input").setValue(registeredUser.getLogin());
