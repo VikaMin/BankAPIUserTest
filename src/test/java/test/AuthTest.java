@@ -18,7 +18,7 @@ class AuthTest {
     @BeforeEach
     void setup() {
         Configuration.holdBrowserOpen = true;
-        Configuration.startMaximized = true;
+        // Configuration.startMaximized = true;
         open("http://localhost:9999");
     }
 
