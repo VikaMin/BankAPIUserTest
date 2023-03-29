@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0j8odvmrb7hwwjpu/branch/main?svg=true)](https://ci.appveyor.com/project/VikaMin/bankapiusertest/branch/main)
